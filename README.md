@@ -10,7 +10,7 @@ You will be able to transfer your customers in the Dia accounting program to a d
 
 1 - Dia bilgilerinizle giriş yapın
 1 - Login with your accounting program username and password
-<p align="center"><img src="http://wpsitetasarim.com/wp-content/uploads/2020/08/Ekran-G%C3%B6r%C3%BCnt%C3%BCs%C3%BC-572.png" width="400"></p>
+<p align="center"><img src="http://wpsitetasarim.com/wp-content/uploads/2020/08/Ekran-G%C3%B6r%C3%BCnt%C3%BCs%C3%BC-572.png" width="1000"></p>
 
 
 
